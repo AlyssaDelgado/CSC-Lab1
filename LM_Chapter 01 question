@@ -1,16 +1,22 @@
-1. Compilers       detect errors.
+1. Compilers detect syntax errors.
 
-
-2. Usually the most difficult errors to correct are the      errors,
+2. Usually the most difficult errors to correct are the logic errors,
 since they are not detected in the compilation process.
 
-
-3. Attaching other pre-written routines to your program is done by the 
+3. Attaching other pre-written routines to your program is done by the linking
 process.
 
-
-4.    code is the machine code consisting of ones and zeroes
+4. Binary code is the machine code consisting of ones and zeroes
 that is read by the computer.
 
+5. Dividing by zero is an example of a run time error.
 
-5. Dividing by zero is an example of a        error.
+1. What operating system are you using?
+Linux
+
+2. What C++ environment are you working in?
+Replit
+
+3. If you are not working in an integrated environment, what are the com-
+pile, run and edit commands that you will need
+N/A
