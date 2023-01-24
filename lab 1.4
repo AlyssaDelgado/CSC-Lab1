@@ -1,0 +1,45 @@
+// Alyssa Delgado
+
+#include <iostream>                
+using namespace std;
+
+int main ()
+
+{
+  
+  cout << "--------------------------------" << endl;
+  cout<<"Alyssa Delgado"<<endl;
+  cout<< "Computer Science 1"<<endl;
+  cout<<"Lab 1"<<endl;
+  cout<<"January 23, 2023"<<endl;
+  cout << "--------------------------------" << endl;
+  float firstNumber;
+  float secondNumber;
+
+  // Prompt user to enter the first number.
+
+  cout << "Enter the first number" << endl;
+  cout << "Then hit enter" << endl;
+  cin >> secondNumber;
+
+  // Echo print the input.
+
+  cout << endl << "You input the numbers as" << firstNumber
+    << " and " << secondNumber << endl; 
+
+  // Now we will swap the values.
+
+  firstNumber = secondNumber;
+  secondNumber = firstNumber;
+
+  // Output the values.
+
+  cout << "After swapping, the values of the two numbers are "
+    << firstNumber << " and " << secondNumber << endl;
+  
+  return 0;
+  
+}
+
+QUESTIONS: When I run the program it prints correct however when I input a value I get a logic error which says "You input the numbers as4.93433e+257 and 4
+After swapping, the values of the two numbers are 4 and 4".
