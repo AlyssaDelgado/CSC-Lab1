@@ -1,0 +1,21 @@
+1. Run the program. (compile and run)
+What is the output of the program?
+25
+
+2. Try to compile the code again.
+Did it compile? If not what kind of error did you get?
+I got an error which states error: expected ‘; after expression x=2-
+
+3. Put back the semicolon and try to compile again.
+Did it compile?
+Yes
+
+4. What kind of output did you get? Were you able to see the values of x and y during the program execution?
+Comment out the debugging “cout” statements”
+I got content of X right after initialization20
+x + Y = 25
+content of y right before program exit: 5
+which shows they didn't comment it out in this code.
+
+5. Run the program. Did the contents of x and y display during the run of the program?
+I only got x + Y = 25 and the content of x and y did not display
